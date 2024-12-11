@@ -13,13 +13,7 @@ This repository contains my labs for **"Knowledge Representation in Artificial I
 git clone https://github.com/svvvyt/KRAIS-labs.git
 ```
 
-3. Navigate to the lab directory:
-
-```bash
-cd knowledge-representation-labs/labX
-```
-
-4. Run `.clp` file in `CLIPS` (don't forget to open Facts and Agenda windows):
+3. Run `.clp` file in `CLIPS` (don't forget to open Facts and Agenda windows):
 
 ```bash
 (reset)
