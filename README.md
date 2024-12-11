@@ -10,7 +10,7 @@ This repository contains my labs for **"Knowledge Representation in Artificial I
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/svvvyt/KRAIS-labs
+git clone https://github.com/svvvyt/KRAIS-labs.git
 ```
 
 3. Navigate to the lab directory:
